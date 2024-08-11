@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import "../assets/sass/abstracts";
+@import "../assets/sass/base/base";
+@import "../assets/sass/layout/layout";
+@import "../assets/sass/pages/pages";
+@import "../assets/sass/components/components";
